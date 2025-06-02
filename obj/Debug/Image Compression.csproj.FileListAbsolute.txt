@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\ \University\SecondCourse\ProgrammingTechnology\CourseWork\Image Compression\bin\Debug\Image Compression.exe.config
+C:\Users\User\Desktop\ \University\SecondCourse\ProgrammingTechnology\CourseWork\Image Compression\bin\Debug\Image Compression.exe
+C:\Users\User\Desktop\ \University\SecondCourse\ProgrammingTechnology\CourseWork\Image Compression\bin\Debug\Image Compression.pdb
+C:\Users\User\Desktop\ \University\SecondCourse\ProgrammingTechnology\CourseWork\Image Compression\obj\Debug\Image Compression.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ \University\SecondCourse\ProgrammingTechnology\CourseWork\Image Compression\obj\Debug\Image_Compression.Form1.resources
+C:\Users\User\Desktop\ \University\SecondCourse\ProgrammingTechnology\CourseWork\Image Compression\obj\Debug\Image_Compression.Properties.Resources.resources
+C:\Users\User\Desktop\ \University\SecondCourse\ProgrammingTechnology\CourseWork\Image Compression\obj\Debug\Image Compression.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ \University\SecondCourse\ProgrammingTechnology\CourseWork\Image Compression\obj\Debug\Image Compression.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ \University\SecondCourse\ProgrammingTechnology\CourseWork\Image Compression\obj\Debug\Image Compression.exe
+C:\Users\User\Desktop\ \University\SecondCourse\ProgrammingTechnology\CourseWork\Image Compression\obj\Debug\Image Compression.pdb
